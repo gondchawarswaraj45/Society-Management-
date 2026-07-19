@@ -56,3 +56,9 @@ htmlcov/
 
 # Backup files
 *.bak
+
+# Maven
+target/
+
+# Java Tools
+java_tools/
